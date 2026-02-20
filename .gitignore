@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database and logs
+feedback.db
+feedback_log.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+__pycache__/
+feedback.db
+feedback_log.txt
